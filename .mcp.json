@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "wikidrive": {
+      "type": "http",
+      "url": "https://wikidrive.app/mcp",
+      "headers": {
+        "X-WikiDrive-Mode": "directory"
+      }
+    }
+  }
+}
