@@ -1,0 +1,20 @@
+{
+  "name": "wikidrive",
+  "displayName": "WikiDrive",
+  "version": "2.0.0",
+  "description": "Use your private WikiDrive with Claude: load the rules you saved for a kind of work, and save a rule or a document, or undo a change, when you ask. WikiDrive keeps your own working rules and documents, and works with the other AI apps you connect to it.",
+  "author": {
+    "name": "WikiDrive",
+    "email": "support@wikidrive.app",
+    "url": "https://wikidrive.app"
+  },
+  "homepage": "https://wikidrive.app",
+  "repository": "https://github.com/dh-quant/wikidrive-claude-plugin",
+  "license": "MIT",
+  "keywords": ["prompts", "rules", "documents", "wiki", "writing", "productivity"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/dh-quant/wikidrive-claude-plugin#readme",
+  "supportUrl": "https://github.com/dh-quant/wikidrive-claude-plugin/issues",
+  "privacyPolicyUrl": "https://wikidrive.app/privacy",
+  "termsOfServiceUrl": "https://wikidrive.app/terms"
+}
